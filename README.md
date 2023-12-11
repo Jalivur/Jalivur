@@ -4,7 +4,7 @@
 ### *Bienbenido.*
 - 👋 Hola mi nombre es Alberto, @Jalivur
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
-- 🌱 Actualmente estoy aprendiendo Python ![](Images/LogoPython.jpg){width=5% height=5% }, git, GitHub, VSCode, y muchas cosas entortno a la programacion de alto nivel.
+- 🌱 Actualmente estoy aprendiendo Python ![](Images/LogoPython.jpg), git, GitHub, VSCode, y muchas cosas entortno a la programacion de alto nivel.
 
 ![@Jalivur](Images/Logofrente2.jpg)
 
