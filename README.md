@@ -1,4 +1,5 @@
-# ***<span style="color:Blueviolet">Alberto Estella Quel</span>*** #
+# ***Alberto Estella Quel*** #
+![@Jalivur]()
 ## *Repositorio principal*
 ### *Bienbenido.*
 - 👋 Hola mi nombre es Alberto, @Jalivur
