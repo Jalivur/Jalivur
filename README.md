@@ -1,4 +1,4 @@
-# <span style="color:blue">Título con color</span> #
+# <span style="color:Blueviolet">Título con color</span> #
 
 
 ## *Repositorio principal*
