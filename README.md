@@ -1,6 +1,4 @@
-# <span style="color:Blueviolet">Título con color</span> #
-
-
+# ***<span style="color:Blueviolet">Alberto Estella Quel</span>*** #
 ## *Repositorio principal*
 ### *Bienbenido.*
 - 👋 Hola mi nombre es Alberto, @Jalivur
