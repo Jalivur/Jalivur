@@ -1,7 +1,7 @@
-# *Alberto Estella Quel* #
+# **Alberto Estella Quel** #
 
-## Repositorio principal
-### Bienbenido.
+## *Repositorio principal*
+### *Bienbenido.*
 - 👋 Hola mi nombre es Alberto, @Jalivur
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
 - 🌱 Actualmente estoy aprendiendo Python, git, GitHub, VSCode, y muchas cosas entortno a la programacion de alto nivel.
