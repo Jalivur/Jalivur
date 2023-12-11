@@ -1,5 +1,5 @@
 # ***Alberto Estella Quel*** #
-![@Jalivur](Images/_8238a359-af8c-4bb9-9e42-16dcb70b57b3.jpg)
+![@Jalivur](Images/Logoderecha2.jpg)
 ## *Repositorio principal*
 ### *Bienbenido.*
 - 👋 Hola mi nombre es Alberto, @Jalivur
