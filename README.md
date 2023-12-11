@@ -6,7 +6,7 @@
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
 - 🌱 Actualmente estoy aprendiendo Python, git, GitHub, VSCode, y muchas cosas entortno a la programacion de alto nivel.
 
-![@Jalivur](Images/_c26f0180-5caa-4efe-984e-490d58f3b5fe.jpg)
+![@Jalivur](Images/Logofrente2.jpg)
 
 <!---
 Jalivur/Jalivur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
