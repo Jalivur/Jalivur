@@ -6,11 +6,11 @@
 - 👋 Hola mi nombre es Alberto, @Jalivur
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
 - 🌱 Actualmente estoy aprendiendo:
-  # ***Python*** [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010)]()
+  # ***Python*** [![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow&labelColor=101010)]()
   ![logo python|5](Images/LogoPython.jpg)
-  # ***Git*** [![Git](https://img.shields.io/badge/Git.-red?style=for-the-badge&logo=git&logoColor=red&labelColor=white)]() ![logo python|5](Images/LogoGit.jpg)
-  # ***GitHub*** [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white)]() ![logo python|5](Images/LogoGithub.jpg)
-  # ***VSCode*** [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue&labelColor=white)]()
+  # ***Git*** [![Git](https://img.shields.io/badge/Git.-red?style=flat&logo=git&logoColor=red&labelColor=white)]() ![logo python|5](Images/LogoGit.jpg)
+  # ***GitHub*** [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=black&labelColor=white)]() ![logo python|5](Images/LogoGithub.jpg)
+  # ***VSCode*** [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=Visual%20Studio%20Code&logoColor=blue&labelColor=white)]()
   - y muchas cosas entortno a la programacion de alto nivel.
 
 ![@Jalivur](Images/Logofrente2.jpg)
