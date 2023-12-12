@@ -9,7 +9,7 @@
   # ***Python*** [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010)]()
   ![logo python|5](Images/LogoPython.jpg)
   # ***Git*** [![Git](https://img.shields.io/badge/Git.-red?style=for-the-badge&logo=git&logoColor=red&labelColor=white)]() ![logo python|5](Images/LogoGit.jpg)
-  # ***GitHub***  ![logo python|5](Images/LogoGithub.jpg)
+  # ***GitHub*** [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white)]() ![logo python|5](Images/LogoGithub.jpg)
   # ***VSCode***
   - y muchas cosas entortno a la programacion de alto nivel.
 
