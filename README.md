@@ -1,7 +1,6 @@
 # ***Alberto Estella Quel***  ![Static Badge](https://img.shields.io/badge/Alberto_Estella-%40Jalivur-red)
 
 ![@Jalivur](Images/Logoderecha2.jpg)
-## *Repositorio principal*
 ### *Bienbenido.*
 - 👋 Hola mi nombre es Alberto, @Jalivur
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
