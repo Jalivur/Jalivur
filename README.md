@@ -15,8 +15,8 @@
   - # ***VSCode*** [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=Visual%20Studio%20Code&logoColor=blue&labelColor=white)]()
   - y muchas cosas entortno a la programacion de alto nivel.
 
-![@Jalivur](Images/Logofrente2.jpg)
-
+<!--- ![@Jalivur](Images/Logofrente2.jpg)
+--->
 <!---
 Jalivur/Jalivur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
