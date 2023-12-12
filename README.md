@@ -5,7 +5,8 @@
 - 👋 Hola mi nombre es Alberto, @Jalivur
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
 - 🌱 Actualmente estoy aprendiendo:
-  # ***Python***  ![logo python|5](Images/LogoPython.jpg)
+  # ***Python*** [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+  ![logo python|5](Images/LogoPython.jpg)
   # ***Git***  ![logo python|5](Images/LogoGit.jpg)
   # ***GitHub***  ![logo python|5](Images/LogoGithub.jpg)
   # ***VSCode***
