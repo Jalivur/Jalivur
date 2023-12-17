@@ -17,8 +17,8 @@
     - y muchas cosas entortno a la programacion de alto nivel.
     - Muchas Gracias a MoureDev por sus Aportaciones a la comunidad y sus curso.
 
-<!---![@Jalivur](Images/Logofrente2.jpg)
---->
+![@Jalivur](Images/Logofrente2.jpg)
+
 <!---
 Jalivur/Jalivur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
