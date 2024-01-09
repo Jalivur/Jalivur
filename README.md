@@ -14,7 +14,7 @@
     <!--  ![logo GitHub|5](Images/LogoGithub.jpg) -->
     - ***VSCode*** [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=Visual%20Studio%20Code&logoColor=blue&labelColor=white)]()
     - ***Markdown*** ![Static Badge](https://img.shields.io/badge/Markdown-white?style=flat%20&logo=Markdown&logoColor=white%20&labelColor=black)
-    - ***JavaScript*** ![JavaScript](https://img.shields.io/badge/JavaScript-javascript-blue?logo=javascript)
+    - ***JavaScript*** [![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=yellow&labelColor=black)]()
     - y muchas cosas entortno a la programacion de alto nivel.
     - Muchas Gracias a [MoureDev](https://github.com/mouredev) por sus Aportaciones a la comunidad y sus curso.
 
