@@ -7,6 +7,7 @@
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
 - 🌱 Actualmente estoy aprendiendo:
     - ***Python*** [![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow&labelColor=101010)]()
+        - [Mi Primera Web 100% Python](https://github.com/Jalivur/web_python_propia)
     <!-- ![logo python|5](Images/LogoPython.jpg) -->
     - ***Git*** [![Static Badge](https://img.shields.io/badge/Git.-red?style=flat&logo=git&logoColor=red&labelColor=white)]()
     <!--  ![logo Git|5](Images/LogoGit.jpg) -->
