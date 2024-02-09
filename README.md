@@ -4,7 +4,7 @@
 ![@Jalivur](Images/Logoderecha2.jpg)
 <hr>
 
-<center><h3>Biembenido</h3></center>
+<div align='center'><h3>Biembenido</h3></div>
 
 - 👋 Hola mi nombre es Alberto, @Jalivur
 - 👀 Estoy muy interesado en aprender y mejorar mis conociminetos de programacion, junto a la cominidad de GitHub
